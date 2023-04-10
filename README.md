@@ -26,7 +26,7 @@ Depois acesse o sistema pelo navegador: http://127.0.0.1:8000/
 
 Será necessário fazer o login em http://127.0.0.1:8000/admin
 
-#### Documentação da api com endpoints podem ser acessadas
+#### Documentação da api com endpoints podem ser acessadas em:
 
 - /Swagger/ - Documentação da API usando o Swagger UI;
 - /Redoc/  - Documentação da API usando o ReDoc.
